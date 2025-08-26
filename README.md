@@ -10,3 +10,4 @@ It is a **Single Page CV** built with **HTML and CSS**, designed to showcase my 
 
 🚀 This project is part of my learning journey in **web development**.  
 https://github.com/hdsuarez/Single-Page-CV/tree/main
+https://roadmap.sh/projects/single-page-cv
