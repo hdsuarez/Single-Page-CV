@@ -9,3 +9,4 @@ It is a **Single Page CV** built with **HTML and CSS**, designed to showcase my 
 - Clean and minimal styling  
 
 🚀 This project is part of my learning journey in **web development**.  
+https://github.com/hdsuarez/Single-Page-CV/tree/main
